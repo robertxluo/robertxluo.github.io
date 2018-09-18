@@ -55,6 +55,18 @@ main > .tagline {
 	font-weight: 100;
 }
 
+main > .intro-description {
+	margin: 0 0 1.5rem 0;
+}
+
+main > .projects-section {
+	margin: 1.5rem 0;
+}
+
+main > .contact-section {
+	margin: 1.5rem 0;
+}
+
 .icons-social i {
 	padding: 10px;
 }
