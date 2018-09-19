@@ -60,7 +60,7 @@ main > .intro-description {
 }
 
 main > .projects-section {
-	margin: 0 0 0 24rem;
+	margin: auto;
 	text-align: left;
 }
 
